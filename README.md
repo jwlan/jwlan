@@ -1,4 +1,4 @@
-# Welcome to Gustaf's GitHub Profile! 👋
+# Welcome to Jake's GitHub Profile! 👋
 
 I'm a passionate Developer with a keen interest in Cybersecurity. 
 
@@ -41,6 +41,5 @@ I'm a passionate Developer with a keen interest in Cybersecurity.
 
 ## 📫 Let's Connect
 
-Feel free to connect with me on [Instagram](https://www.instagram.com/x_rdp_x)
+Feel free to connect with me
 
-Looking forward to connecting with fellow developers and enthusiasts! 🌟
